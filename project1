@@ -1,0 +1,14 @@
+<head>
+<script>
+    var animal = prompt("list animals");
+    var animalarray = animal.split(",");
+    var array1 = animalarray.sort();
+    console.log(array1);
+    window.alert(array1);
+ </script>
+
+</head>
+<body>
+
+
+</body>
